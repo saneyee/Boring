@@ -1,15 +1,5 @@
-p.intro {
+.intro {
   color: blue;
   font-style: italic;
   font-size: 15px;
-}
-
-h2.intro {
-  color: blue;
-  font-style: italic;
-  font-size: 30px;
-}
-
-img.intro {
-  image-resolution: from-image;
 }
