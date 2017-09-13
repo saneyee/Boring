@@ -3,3 +3,11 @@
   font-style: italic;
   font-size: 15px;
 }
+.highlights {
+ margin: 10px;
+ padding: 5px;
+ border: 2px solid green;
+ background-color: yellow;
+
+
+}
